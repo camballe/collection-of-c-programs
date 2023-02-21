@@ -1,0 +1,7 @@
+Introduction to Computer Systems    A
+Introduction to Programming    C
+Discrete Mathematics    E
+Programming Lab    A
+Physics for Computing Systems    B
+Communication Skills    E
+HIV/AIDS    A

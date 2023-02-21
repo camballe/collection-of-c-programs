@@ -1,0 +1,24 @@
+
+
+
+
+
+=========PAYSLIP=========
+NAME:	Enoch Kambale
+
+PAYROLL NO:	35
+BASIC SALARY:	Kshs.50000
+HOUSE ALLOWANCE:	Kshs.8000
+COMMUTER ALLOWANCE:	Kshs.3000
+
+=====DEDUCTIONS=====
+PAYE:	Kshs.18300.000000
+NHIF:	Kshs.500
+NSSF:	Kshs.200
+
+
+NET SALARY:	Kshs.42000.000000
+
+
+
+

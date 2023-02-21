@@ -1,0 +1,10 @@
+STUDENT NAME:	Kambale
+STUDENT INDEX NUMBER:	54673892018
+STUDENT AGE:	18
+
+RESULTS
+English           		78	Meets Expectations (M)
+Kiswahili         		45	Below Expectation (B)
+Mathematics       		67	Meets Expectations (M)
+Integrated Science		34	Below Expectation (B)
+Creative Arts     		34	Below Expectation (B)

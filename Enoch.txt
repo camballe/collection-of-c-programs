@@ -1,0 +1,10 @@
+STUDENT NAME:	Enoch
+STUDENT INDEX NUMBER:	11200003398
+STUDENT AGE:	18
+
+RESULTS
+English           		90	Exceeds Expectations (E)
+Kiswahili         		34	Below Expectation (B)
+Mathematics       		12	Below Expectation (B)
+Integrated Science		67	Meets Expectations (M)
+Creative Arts     		49	Below Expectation (B)
